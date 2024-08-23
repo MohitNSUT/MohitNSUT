@@ -29,9 +29,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="filter: invert(39%) sepia(81%) saturate(2687%) hue-rotate(106deg) brightness(92%) contrast(85%);"/>
-    </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     </a>
@@ -63,5 +60,4 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitnsut&show_icons=true&locale=en&layout=compact" alt="mohitnsut" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitnsut&" alt="mohitnsut" /></p>
