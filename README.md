@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitnsut&label=Profile%20views&color=0e75b6&style=flat" alt="mohitnsut" /> </p>
+<p align="left"> <img src="https://tenor.com/en-GB/view/code-coding-computer-gif-19684211"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
