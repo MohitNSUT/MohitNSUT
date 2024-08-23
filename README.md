@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohit-kumar-256a8822a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-kumar-256a8822a" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mohitcoder/profile" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gfg.svg" alt="mohitcoder" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/geeksforgeeks.svg" alt="mohitcoder" height="30" width="40" />
 </a>
 <a href="https://www.leetcode.com/mohit__coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohit__coder" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mohitgk7185" target="_blank">
