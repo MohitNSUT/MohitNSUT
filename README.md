@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://tenor.com/en-GB/view/code-coding-computer-gif-19684211"/> </p>
+<a href="https://tenor.com/view/code-coding-computer-gif-19684211" target="_blank">
+    <img src="https://media.tenor.com/VhI7GTRnDWcAAAAC/code-coding.gif" alt="Coding GIF" height="200" width="200" />
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
