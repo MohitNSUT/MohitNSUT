@@ -70,7 +70,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitNSUT&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=MohitNSUT&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
@@ -107,4 +107,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8FC0,100:1F4E79&height=100&section=footer" width="100%"/>
 
-</div>ƒ
+</div>
