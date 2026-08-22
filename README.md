@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:4F8FC0&height=200&section=header&text=Hi%20there,%20I'm%20Mohit%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Full-Stack%20Software%20Engineer&descAlignY=55&descSize=18&descColor=e6e6e6" width="100%"/>
 
 <a href="https://linkedin.com/in/mohit-kumar-256a8822a">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1F4E79&center=true&vCenter=true&width=560&lines=Software+Engineer+%40+MAQ+Software;Java+%7C+Spring+Boot+%7C+Python+%7C+React;1000%2B+DSA+Problems+Solved;Building+scalable+backend+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1F4E79&center=true&vCenter=true&width=560&lines=Backend+%2F+Full-Stack+Software+Engineer;Java+%7C+Spring+Boot+%7C+Python+%7C+React;1000%2B+DSA+Problems+Solved;Building+scalable+backend+systems" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building backend systems & data pipelines as a **Software Engineer** at **MAQ Software**
+- 🔭 Currently building backend systems & data pipelines as a **Software Engineer**
 - 🛠️ Working across **Java · Spring Boot · Python · React · PostgreSQL · MongoDB**
 - 📊 Recent focus: performance tuning, observability with **Grafana**, and API design
 - 🧩 Solved **1000+ Data Structures & Algorithms** problems across competitive platforms
@@ -107,4 +107,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8FC0,100:1F4E79&height=100&section=footer" width="100%"/>
 
-</div>
+</div>ƒ
